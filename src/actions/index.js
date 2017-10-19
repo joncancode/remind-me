@@ -1,10 +1,10 @@
 export const ADD_REMINDER = 'ADD_REMINDER';
-export const addReminder = text => {
+export const addReminder = (text, dueDate) => {
   const action = {
     type: ADD_REMINDER,
-    text
-  };
-  console.log('action in addreminder fun', action);
+    text,
+    dueDate
+  }
   return action;
 };
 
@@ -14,6 +14,12 @@ export const deleteReminder = id => {
     type: DELETE_REMINDER,
     id
   };
-  console.log('delete in actions', action)
   return action;
 };
+
+export const CLEAR_REMINDERS = 'CLEAR_REMINDERS'
+export const clearReminders = () => {
+    return {
+        type: CLEAR_REMINDERS
+    }
+  };
