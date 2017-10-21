@@ -1,3 +1,7 @@
+body {
+    background-color: #294B7A;    
+}
+
 .App {
     padding-top: 20px;
     display:flex;
@@ -7,8 +11,10 @@
 
 .title {
     text-align: center;
-    font-size: 26px;
+    font-size: 46px;
     margin-bottom: 10px;
+    color: lightcyan;
+    font-family: "Oswald";
 }
 
 input {

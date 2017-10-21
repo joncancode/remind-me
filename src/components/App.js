@@ -52,7 +52,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <div className="title">Remind Me...</div>
+        <div className="title">When Did That Happen...?</div>
         <div className="form-inline reminder-form">
           <div className="form-group">
             <input
