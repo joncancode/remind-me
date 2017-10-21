@@ -7,9 +7,9 @@ When Did That Happen...? was created with the clean design of Bootstrap. It allo
 
 * [JavaScript](https://stackoverflow.com/questions/tagged/javascript) 
 * [Bootstrap](https://getbootstrap.com) 
-* [React](https://reactjs.org/) - Front End
-* [Redux](http://redux.js.org/) - Front End
-* [Heroku](https://www.heroku.com//) - Host
+* [React](https://reactjs.org/)
+* [Redux](http://redux.js.org/) 
+* [Heroku](https://www.heroku.com//) 
 
 ## License
 
