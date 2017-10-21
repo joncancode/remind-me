@@ -1,4 +1,4 @@
-## Simple React app for extra React / Redux work
+## Reminder app created in React / Redux and Bootstrap
 
 
 
