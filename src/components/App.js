@@ -53,6 +53,7 @@ class App extends Component {
     return (
       <div className="App">
         <div className="title">When Did That Happen...?</div>
+        <div className="description">Keep track. Stay informed. Never miss an appointment again.</div>
         <div className="form-inline reminder-form">
           <div className="form-group">
             <input
@@ -65,7 +66,7 @@ class App extends Component {
             onChange={e => this.setState({dueDate: e.target.value})}
              />
           </div>
-        
+        <br/>
           <button
             type="button"
             className="btn btn-success"
