@@ -1,7 +1,7 @@
 # [When Again?](https://when-did-that-happen.herokuapp.com/)
 
 
-When Did That Happen...? was created with the clean design of Bootstrap. It allows you to make a list of dates to remember, either in the past of future, then uses cookies to save this data for a later time. It was created with Create-React-App.
+When Again was created with the clean design of Bootstrap. It allows you to make a list of dates to remember, either in the past of future, then uses cookies to save this data for a later time. It was created with Create-React-App.
 
 ## Built With
 
